@@ -17,11 +17,11 @@ At Nexora, we believe in the power of **learning** and **technology** to transfo
 
 We are a growing team of 7 talented individuals:
 
-- 🧑‍💻 3 Web Developers (Next.js, Node.js, MongoDB)
-- 📱 1 Mobile Developer (Flutter)
-- 🧠 1 AI Specialist (NLP, ML)
+- 🧑‍💻 3 Web Developers
+- 📱 1 Mobile Developer 
+- 🧠 1 AI Specialist 
 - 🎨 1 UI/UX Designer
-- 👔 1 CEO / Founder
+- 👔 1 CEO 
 
 ---
 
@@ -67,7 +67,7 @@ We’re always open to:
 - Open-source collaboration
 
 > **Want to work with us or learn more?**  
-> 📧 Reach out at: [contact@nexora.tech](mailto:contact@nexora.tech)
+> 📧 Reach out at: [nexora4tech@gmail.com](mailto:nexora4tech@gmail.com)
 
 ---
 
